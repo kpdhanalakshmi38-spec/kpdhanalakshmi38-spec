@@ -1,17 +1,17 @@
-<!-- ## Hi  👋 ,I ,m Dhanalakshmi K P-->
+# 💫 Hi 👋, I'm Dhanalakshmi K P
+**Computer Science  Student from India 🇮🇳 | Aspiring Software Developer | Enthusiastic about Web Development, Databases, Cloud Technologies, and Problem Solving**
 
-<!--
-**A passionate computer science student
-Here are some ideas to get you started:
+Email Me 👉 ✉️ **kpdhanalakshmi38@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 I’m currently working on Eye Donation Management System and VisionLink projects.
-🌱 I’m currently learning Web Development, Java, Python, and Database Management Systems.
-👯 I’m looking to collaborate on open-source projects and innovative software development projects.
-🤔 I’m looking for help with full-stack development and software engineering best practices.
-💬 Ask me about C programming, Java, Web Development, and Computer Science fundamentals.
-📫 How to reach me: kpdhanalakshmi38@gmail.com
-😄 Pronouns: She/Her
-⚡ Fun fact: I enjoy turning ideas into real-world software solutions and continuously learning new technologies.
+- 🔭 **I’m currently working on:** Eye Donation Management System, VisionLink, and Dine Reserve projects
+- 🌱 **I’m currently learning:** Java, Python, Web Development, DBMS, and Cloud Computing
+- 👯 **I’m looking to collaborate on:** Open-source and student software development projects
+- 🤔 **I’m looking for help with:** Full-Stack Web Development and Project Deployment
+- 💬 **Ask me about:** Java, C Programming, DBMS, Web Development, and Computer Science
+- 📫 **How to reach me:** kpdhanalakshmi38@gmail.com
+- 😄 **Pronouns:** she/her
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhanalakshmi-k-p-4621a9378?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kpdhanalakshmi38-spec&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kpdhanalakshmi38-spec&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
